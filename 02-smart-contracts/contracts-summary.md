@@ -21,6 +21,22 @@ Smart contracts are **self-executing pieces of code** where the terms of agreeme
 
 - **Visibility** (like `public`, `private`, `internal`, `external`) determines who can access a variable or function.
 - **Data locations** (`storage`, `memory`, `calldata`) define *where* the data lives and *how* it's managed when passed around.
+## Example: Counter Contract
+
+This example, it's a simple **Counter** contract that tracks a count and allows it to be incremented.
+
+### Code:
+
+```solidity
+pragma solidity ^0.8.20;
+
+contract Counter {
+    uint public count = 0;
+
+    function increment() public {
+        count += 1;
+    }
+}
 
 
 
