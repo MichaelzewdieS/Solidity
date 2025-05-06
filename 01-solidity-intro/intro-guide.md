@@ -3,6 +3,60 @@
 As part of our Solidity learning journey, we covered the following key topics:
 
 ---
+## What is Blockchain?
+
+A **blockchain** is like a digital ledger that stores data in linked blocks. Here’s the key idea:
+
+- Data is grouped into **blocks**.
+- Each block is linked to the one before it — forming a **chain**.
+- Once data is added, it’s **immutable** (it can’t be changed).
+- The system is **decentralized** — no single person or organization controls it.
+
+---
+
+### Key Features
+
+- **Decentralization** – No single point of control.
+- **Transparency** – Everyone on the network can see the data.
+- **Immutability** – Data can't be changed after it's added.
+- **Consensus** – Rules (algorithms) that help the network agree on valid transactions.
+
+---
+
+### How It Works
+
+1. A user requests a transaction.
+2. The request is shared across the network.
+3. Nodes (computers) validate it using consensus algorithms (like Proof of Work).
+4. If valid, it’s added to a new block.
+5. That block joins the blockchain.
+
+---
+### Common Uses
+
+- Cryptocurrency (e.g., Bitcoin, Ethereum)
+- Supply chain tracking
+- Digital voting systems
+- Smart contracts and decentralized apps (dApps)
+
+---
+
+## What is Ethereum?
+
+Ethereum is a blockchain that allows **smart contracts** — code that runs exactly as programmed with no downtime or interference.
+
+Unlike Bitcoin (which mainly handles currency), **Ethereum is programmable**, enabling the creation of decentralized applications.
+
+---
+
+### Key Ethereum Terms
+
+- **Ether (ETH)** – Native cryptocurrency used to pay for transactions.
+- **Smart Contract** – Code deployed to Ethereum that executes automatically.
+- **EVM (Ethereum Virtual Machine)** – Runs smart contracts.
+- **Gas** – Fee paid to run operations on Ethereum.
+
+---
 
 ## What is Solidity?
 
