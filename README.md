@@ -8,7 +8,8 @@ Our objective is to document our learning process, showcase our progress, and de
 ## 👥 Group Members
 
 - **Michael Zewdie** (`UGR/23275/13`)
-- **Bisrat Abreham** (`UGR`)
+- **Bisrat Abreham** (`UGR/23391/13`)
+- **Fitsum L/brihan** (`UGR/23363/13`)
 
 ## 📁 Repository Structure
 
