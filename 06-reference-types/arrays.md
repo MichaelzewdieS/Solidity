@@ -1,4 +1,4 @@
-## 1. **Array**
+## **Array**
 
 ### Fixed-size:
 
