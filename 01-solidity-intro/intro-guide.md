@@ -35,5 +35,17 @@ With the environment in place, we jumped into writing our very first smart contr
 This initial hands-on experience helped us grasp how smart contracts behave on the blockchain and what best practices to keep in mind.
 
 ---
+## Example: Hello World in Solidity
+
+One of the first contracts we worked on was the classic **Hello World** smart contract. It's simple, clear, and a great way to get familiar with how Solidity works.
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract HelloWorld {
+    string public greet = "Hello, World!";
+}
+
 
 
